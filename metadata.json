@@ -1,0 +1,6 @@
+{
+  "name": "مختبر فيزياء الأول المتوسط التفاعلي",
+  "description": "منصة تفاعلية ومختبر افتراضي شامل لمنهج فيزياء الصف الأول المتوسط: خواص المادة، تركيب الذرة، وتأثيرات الحرارة مع محاكاة حية وتجارب بيئية واقعية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
